@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sriram4n
 - 👀 I’m interested in learning various progamming languages
-- 🌱 I’m currently learning python! (newbie)
+- 🌱 I’m currently learning!
 - 📫 Reach me instagram/@sriram4n
 
 <!---
